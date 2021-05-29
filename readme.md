@@ -17,11 +17,11 @@ _Simple implementation of minesweeper using Javascript_
 Click on cells to hopefully reveal cells without mines. Reveal every safe cell and win. Click on the smiley face(or dead face) at the top to restart the game.
 
 ## Future stuff to add
-_Flagging Mines_
-_Settings other than 10 mines in a 10x10 grid_
-_Prettier layout_
-_Better centered layout_
-_Better performing algorithms_
+*_Flagging Mines_
+*_Settings other than 10 mines in a 10x10 grid_
+*_Prettier layout_
+*_Better centered layout_
+*_Better performing algorithms_
 
 ## Known Bugs
 
